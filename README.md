@@ -14,3 +14,9 @@ My 1-Year Cloud Developer Learning Journey
 - Learned what Linux is and why it’s vital in the cloud.
 - Understood Linux directory structure.
 - Practiced first 8 basic commands.
+
+### Day 4 – Linux File Operations & Permissions
+- Learned to copy, move, and delete files/folders.
+- Understood Linux file permissions (r, w, x).
+- Practiced chmod and ls -l commands.
+ 
