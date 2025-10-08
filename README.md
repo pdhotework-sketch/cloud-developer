@@ -1,4 +1,10 @@
 # cloud-developer
+
+## 🚀 My Goal
+I'm learning Cloud Development from scratch with a 1-year structured roadmap.  
+This repository tracks my daily progress — from Linux to AWS, DevOps, and Cloud Architecture.
+
+
 My 1-Year Cloud Developer Learning Journey
 ### Day 1 – Understanding the Cloud
 - Learned the meaning of Cloud Computing.
